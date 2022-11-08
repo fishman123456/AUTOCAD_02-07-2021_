@@ -1,0 +1,18 @@
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\bin\Debug\Layer_Add.dll
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\bin\Debug\Layer_Add.pdb
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.dll
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.pdb
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.Resource RU-ru.resources
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.Resource Eng-eng.resources
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\YandexDisk\Работа АСКО\AUTOCAD_Плагины\02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\bin\Debug\Layer_Add.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\bin\Debug\Layer_Add.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.Resource RU-ru.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.Resource Eng-eng.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\AUTOCAD_02-07-2021_\Layer_Add\obj\Debug\Layer_Add.pdb
